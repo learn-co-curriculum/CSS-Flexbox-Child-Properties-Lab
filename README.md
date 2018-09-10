@@ -4,6 +4,6 @@
 
 ## Objectives
 
-1.  Use CSS to create a flex display container
+1.  Use CSS to modify the behavior of child elements in a flex display
 
-#### Adding Flex Properties to a Container
+#### Adding Flex Properties to Child Elements
